@@ -1,6 +1,9 @@
 # flutter_application_discovery
 
-A new Flutter project.
+A new Flutter project. <br>
+- Descargar proyecto
+- Abrir en visual code
+- abrir terminal y ejecutar comando flutter pub get
 
 ## Desing
 <img src="https://github.com/gquinodeveloper/flutter_app_games/blob/master/s1.png"/>
