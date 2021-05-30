@@ -6,8 +6,8 @@ A new Flutter project.
 <img src="https://github.com/gquinodeveloper/flutter_app_games/blob/master/s1.png"/>
 <img src="https://github.com/gquinodeveloper/flutter_app_games/blob/master/s2.png"/>
 <br>
-Thank you so much
-- [Desing: ](https://dribbble.com/shots/14354220-Twitch-App-Design-Part-3?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Twitch+App+Design+Part+3&utm_medium=Social_Shareok)
+Thank you so much<br>
+- [Desing: ](https://bit.ly/3yQhgxq)
 ### Getting Started
 
 This project is a starting point for a Flutter application.
